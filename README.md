@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Clever Mukondiwa</h1>
-  <h3>Student-BSc Computer Science •Technopreneur (KURA BUSINESS SOFTWARES) • Systems & Full-Stack Developer</h3>
+  <h3>Student-BSc Computer Science •Technopreneur (KURA BUSINESS SOFTWARE) • Systems & Full-Stack Developer</h3>
 
   <p>
     <a href="https://creatorclever.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
